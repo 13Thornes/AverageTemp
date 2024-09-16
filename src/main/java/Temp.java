@@ -33,3 +33,4 @@ public class Temp {
         temps.AverageTemp();
     }
 }
+
